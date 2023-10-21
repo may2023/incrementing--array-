@@ -3,7 +3,7 @@
 
 int increment(uint16_t *arr){
 for(int i =0; i< 5; i++){
-     arr[i]++;
+     arr[i]+= 2;
     
 }
 
